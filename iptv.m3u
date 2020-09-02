@@ -1,1 +1,6 @@
-https://im0-tub-ua.yandex.net/i?id=84a7e208365a96742cce95951d7a13a9&n=13&exp=1
+#EXTM3U
+#EXTVLCOPT --http-reconnect=true
+#EXTINF:0,Пополните, пожалуйста, 
+http://view.my-tv.biz/tv/bc5687c1be/1ffd4ba3eb/video.m3u8
+#EXTINF:0,счет
+http://view.my-tv.biz/tv/bc5687c1be/b62a4d0e1f/video.m3u8
