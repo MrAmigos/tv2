@@ -1,447 +1,405 @@
 #EXTM3U
 #EXTVLCOPT --http-reconnect=true
-#PLAYLIST: Gcoast10 HLS
+#PLAYLIST: malinAlena HLS
 #EXTINF:0,A1
-http://view.my-tv.biz/tv/bc5687c1be/1ffd4ba3eb/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/1ffd4ba3eb/video.m3u8
 #EXTINF:0,A2
-http://view.my-tv.biz/tv/bc5687c1be/b62a4d0e1f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b62a4d0e1f/video.m3u8
 #EXTINF:0,Amedia Hit
-http://view.my-tv.biz/tv/bc5687c1be/ee6efdd3cf/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/ee6efdd3cf/video.m3u8
 #EXTINF:0,Amedia Premium
-http://view.my-tv.biz/tv/bc5687c1be/bcbb5d9136/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/bcbb5d9136/video.m3u8
 #EXTINF:0,BOLT
-http://view.my-tv.biz/tv/bc5687c1be/a33e602255/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/a33e602255/video.m3u8
 #EXTINF:0,Bollywood HD
-http://view.my-tv.biz/tv/bc5687c1be/0a5732a289/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/0a5732a289/video.m3u8
 #EXTINF:0,FOX HD
-http://view.my-tv.biz/tv/bc5687c1be/87b5138d88/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/87b5138d88/video.m3u8
 #EXTINF:0,FlixSnip
-http://view.my-tv.biz/tv/bc5687c1be/b3ee6e81b2/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b3ee6e81b2/video.m3u8
 #EXTINF:0,Hollywood HD
-http://view.my-tv.biz/tv/bc5687c1be/d9ef02a4ea/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d9ef02a4ea/video.m3u8
 #EXTINF:0,Paramount Comedy
-http://view.my-tv.biz/tv/bc5687c1be/ce82d89bc1/video.m3u8
-#EXTINF:0,RTR Planeta
-http://view.my-tv.biz/tv/bc5687c1be/7eceeb9bd3/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/ce82d89bc1/video.m3u8
 #EXTINF:0,SHOT TV
-http://view.my-tv.biz/tv/bc5687c1be/eee883bf93/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/eee883bf93/video.m3u8
 #EXTINF:0,SONY Sci-Fi
-http://view.my-tv.biz/tv/bc5687c1be/b420d6efa1/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b420d6efa1/video.m3u8
 #EXTINF:0,Sony Channel HD
-http://view.my-tv.biz/tv/bc5687c1be/535b7cb538/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/535b7cb538/video.m3u8
 #EXTINF:0,Sony Turbo
-http://view.my-tv.biz/tv/bc5687c1be/1d45a6db61/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/1d45a6db61/video.m3u8
 #EXTINF:0,Spike Russia
-http://view.my-tv.biz/tv/bc5687c1be/9af639c8fb/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/9af639c8fb/video.m3u8
 #EXTINF:0,Star Cinema
-http://view.my-tv.biz/tv/bc5687c1be/73fa3a433f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/73fa3a433f/video.m3u8
 #EXTINF:0,TV 1000
-http://view.my-tv.biz/tv/bc5687c1be/99a51bffe1/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/99a51bffe1/video.m3u8
 #EXTINF:0,TV1000 Action
-http://view.my-tv.biz/tv/bc5687c1be/7cba98260e/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/7cba98260e/video.m3u8
 #EXTINF:0,TV1000 Русское кино
-http://view.my-tv.biz/tv/bc5687c1be/a396e9cde8/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/a396e9cde8/video.m3u8
 #EXTINF:0,VIP Comedy
-http://view.my-tv.biz/tv/bc5687c1be/f6544733f0/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/f6544733f0/video.m3u8
 #EXTINF:0,VIP Megahit
-http://view.my-tv.biz/tv/bc5687c1be/d92fdef31c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d92fdef31c/video.m3u8
 #EXTINF:0,VIP Premiere
-http://view.my-tv.biz/tv/bc5687c1be/d02cd74a02/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d02cd74a02/video.m3u8
 #EXTINF:0,Дом Кино
-http://view.my-tv.biz/tv/bc5687c1be/94f5fa6282/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/94f5fa6282/video.m3u8
 #EXTINF:0,Дом Кино Премиум HD
-http://view.my-tv.biz/tv/bc5687c1be/13653dce8c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/13653dce8c/video.m3u8
 #EXTINF:0,Дорама
-http://view.my-tv.biz/tv/bc5687c1be/7a159e325c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/7a159e325c/video.m3u8
 #EXTINF:0,Еврокино
-http://view.my-tv.biz/tv/bc5687c1be/27167841f5/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/27167841f5/video.m3u8
 #EXTINF:0,Звезда
-http://view.my-tv.biz/tv/bc5687c1be/240fb199fc/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/240fb199fc/video.m3u8
 #EXTINF:0,Иллюзион +
-http://view.my-tv.biz/tv/bc5687c1be/b3d9e9ffb2/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b3d9e9ffb2/video.m3u8
 #EXTINF:0,КИНОКОМЕДИЯ
-http://view.my-tv.biz/tv/bc5687c1be/c51ab6009d/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c51ab6009d/video.m3u8
 #EXTINF:0,КИНОМИКС
-http://view.my-tv.biz/tv/bc5687c1be/2ee7ea4fd8/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/2ee7ea4fd8/video.m3u8
 #EXTINF:0,КИНОПРЕМЬЕРА HD
-http://view.my-tv.biz/tv/bc5687c1be/36bafbe343/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/36bafbe343/video.m3u8
 #EXTINF:0,КИНОСВИДАНИЕ
-http://view.my-tv.biz/tv/bc5687c1be/ac36518eed/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/ac36518eed/video.m3u8
 #EXTINF:0,КИНОСЕМЬЯ
-http://view.my-tv.biz/tv/bc5687c1be/68df2b65d4/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/68df2b65d4/video.m3u8
 #EXTINF:0,КИНОСЕРИЯ
-http://view.my-tv.biz/tv/bc5687c1be/5ac7f6fbdd/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/5ac7f6fbdd/video.m3u8
 #EXTINF:0,КИНОУЖАС
-http://view.my-tv.biz/tv/bc5687c1be/23505dc8fe/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/23505dc8fe/video.m3u8
 #EXTINF:0,КИНОХИТ
-http://view.my-tv.biz/tv/bc5687c1be/89e7a20ef3/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/89e7a20ef3/video.m3u8
 #EXTINF:0,Кино ТВ
-http://view.my-tv.biz/tv/bc5687c1be/f539dd269d/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/f539dd269d/video.m3u8
 #EXTINF:0,Комедия
-http://view.my-tv.biz/tv/bc5687c1be/bc5357e44c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/bc5357e44c/video.m3u8
 #EXTINF:0,Любимое Кино
-http://view.my-tv.biz/tv/bc5687c1be/488f8bc57e/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/488f8bc57e/video.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
-http://view.my-tv.biz/tv/bc5687c1be/e59af45c38/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/e59af45c38/video.m3u8
 #EXTINF:0,Мир Сериала
-http://view.my-tv.biz/tv/bc5687c1be/94eea3ac46/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/94eea3ac46/video.m3u8
 #EXTINF:0,НСТ
-http://view.my-tv.biz/tv/bc5687c1be/b60fa25e50/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b60fa25e50/video.m3u8
 #EXTINF:0,НТВ HD
-http://view.my-tv.biz/tv/bc5687c1be/817cd1becd/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/817cd1becd/video.m3u8
 #EXTINF:0,Наше новое кино
-http://view.my-tv.biz/tv/bc5687c1be/647965b877/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/647965b877/video.m3u8
 #EXTINF:0,Первый HD
-http://view.my-tv.biz/tv/bc5687c1be/f3167e8d88/video.m3u8
-#EXTINF:0,Победа
-http://view.my-tv.biz/tv/bc5687c1be/dc43d4de15/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/f3167e8d88/video.m3u8
 #EXTINF:0,Пятый Канал
-http://view.my-tv.biz/tv/bc5687c1be/e596626752/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/e596626752/video.m3u8
 #EXTINF:0,РОДНОЕ КИНО
-http://view.my-tv.biz/tv/bc5687c1be/79be559397/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/79be559397/video.m3u8
 #EXTINF:0,Россия 1 HD
-http://view.my-tv.biz/tv/bc5687c1be/c34f86e727/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c34f86e727/video.m3u8
 #EXTINF:0,Русский Иллюзион
-http://view.my-tv.biz/tv/bc5687c1be/69c472773a/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/69c472773a/video.m3u8
 #EXTINF:0,Русский бестселлер
-http://view.my-tv.biz/tv/bc5687c1be/db684d0a4f/video.m3u8
-#EXTINF:0,Русский роман
-http://view.my-tv.biz/tv/bc5687c1be/4fa8d565d8/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/db684d0a4f/video.m3u8
 #EXTINF:0,Санкт-Петербург
-http://view.my-tv.biz/tv/bc5687c1be/c951bf8944/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c951bf8944/video.m3u8
 #EXTINF:0,Eurosport 1 HD
-http://view.my-tv.biz/tv/bc5687c1be/2967b719d3/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/2967b719d3/video.m3u8
 #EXTINF:0,Eurosport 2 HD
-http://view.my-tv.biz/tv/bc5687c1be/e4985ac924/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/e4985ac924/video.m3u8
 #EXTINF:0,Eurosport Gold HD
-http://view.my-tv.biz/tv/bc5687c1be/7c404fa97c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/7c404fa97c/video.m3u8
 #EXTINF:0,Extreme Sports
-http://view.my-tv.biz/tv/bc5687c1be/06e21c44e9/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/06e21c44e9/video.m3u8
 #EXTINF:0,M-1 Global TV
-http://view.my-tv.biz/tv/bc5687c1be/365240d9d7/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/365240d9d7/video.m3u8
+#EXTINF:0,SETANTA SPORTS HD
+http://view.my-tv.biz/tv/a0fccdfeac/a21c8070b5/video.m3u8
+#EXTINF:0,SETANTA SPORTS+ HD
+http://view.my-tv.biz/tv/a0fccdfeac/06a109ba8d/video.m3u8
 #EXTINF:0,Setanta Sports Ukraine HD
-http://view.my-tv.biz/tv/bc5687c1be/4fab5190f2/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/4fab5190f2/video.m3u8
 #EXTINF:0,Super Tennis HD
-http://view.my-tv.biz/tv/bc5687c1be/b2630887b4/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b2630887b4/video.m3u8
 #EXTINF:0,Viasat Sport
-http://view.my-tv.biz/tv/bc5687c1be/97c0bac97a/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/97c0bac97a/video.m3u8
 #EXTINF:0,КХЛ HD
-http://view.my-tv.biz/tv/bc5687c1be/771f41ee81/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/771f41ee81/video.m3u8
 #EXTINF:0,Конный Мир
-http://view.my-tv.biz/tv/bc5687c1be/0b8e9d908f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/0b8e9d908f/video.m3u8
 #EXTINF:0,МАТЧ ПРЕМЬЕР HD
-http://view.my-tv.biz/tv/bc5687c1be/aa0429d49b/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/aa0429d49b/video.m3u8
 #EXTINF:0,МАТЧ! Боец
-http://view.my-tv.biz/tv/bc5687c1be/2e8713d80a/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/2e8713d80a/video.m3u8
 #EXTINF:0,Матч! HD
-http://view.my-tv.biz/tv/bc5687c1be/0141838383/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/0141838383/video.m3u8
 #EXTINF:0,Матч! Арена HD
-http://view.my-tv.biz/tv/bc5687c1be/87c5ae5642/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/87c5ae5642/video.m3u8
 #EXTINF:0,Матч! Игра
-http://view.my-tv.biz/tv/bc5687c1be/9fcb1ade03/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/9fcb1ade03/video.m3u8
 #EXTINF:0,Матч! Футбол 1 HD
-http://view.my-tv.biz/tv/bc5687c1be/84e6fa3a07/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/84e6fa3a07/video.m3u8
 #EXTINF:0,Матч! Футбол 2 HD
-http://view.my-tv.biz/tv/bc5687c1be/740c6ef295/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/740c6ef295/video.m3u8
 #EXTINF:0,Матч! Футбол 3 HD
-http://view.my-tv.biz/tv/bc5687c1be/f87d8f7ef9/video.m3u8
-#EXTINF:0,Моторспорт ТВ HD
-http://view.my-tv.biz/tv/bc5687c1be/cfdb19b0fc/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/f87d8f7ef9/video.m3u8
 #EXTINF:0,Точка отрыва
-http://view.my-tv.biz/tv/bc5687c1be/cbeef14429/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/cbeef14429/video.m3u8
 #EXTINF:0,Футбол 1
-http://view.my-tv.biz/tv/bc5687c1be/35b7868ae8/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/35b7868ae8/video.m3u8
 #EXTINF:0,Футбол 2
-http://view.my-tv.biz/tv/bc5687c1be/50b24506cf/video.m3u8
-#EXTINF:0,Футбол 3
-http://view.my-tv.biz/tv/bc5687c1be/c39f4e88a3/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/50b24506cf/video.m3u8
 #EXTINF:0,Euronews
-http://view.my-tv.biz/tv/bc5687c1be/21612f2845/video.m3u8
-#EXTINF:0,RTR Planeta
-http://view.my-tv.biz/tv/bc5687c1be/7eceeb9bd3/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/21612f2845/video.m3u8
 #EXTINF:0,Дождь
-http://view.my-tv.biz/tv/bc5687c1be/aad03f21ab/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/aad03f21ab/video.m3u8
 #EXTINF:0,Москва 24
-http://view.my-tv.biz/tv/bc5687c1be/3fb5874fb2/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/3fb5874fb2/video.m3u8
 #EXTINF:0,НТВ HD
-http://view.my-tv.biz/tv/bc5687c1be/817cd1becd/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/817cd1becd/video.m3u8
 #EXTINF:0,Первый HD
-http://view.my-tv.biz/tv/bc5687c1be/f3167e8d88/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/f3167e8d88/video.m3u8
 #EXTINF:0,РБК-ТВ
-http://view.my-tv.biz/tv/bc5687c1be/3bfd92c4a1/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/3bfd92c4a1/video.m3u8
 #EXTINF:0,Россия 1 HD
-http://view.my-tv.biz/tv/bc5687c1be/c34f86e727/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c34f86e727/video.m3u8
 #EXTINF:0,Россия-24
-http://view.my-tv.biz/tv/bc5687c1be/f7a83ac406/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/f7a83ac406/video.m3u8
 #EXTINF:0,Санкт-Петербург
-http://view.my-tv.biz/tv/bc5687c1be/c951bf8944/video.m3u8
-#EXTINF:0,Ani
-http://view.my-tv.biz/tv/bc5687c1be/4829c595e8/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c951bf8944/video.m3u8
 #EXTINF:0,Boomerang
-http://view.my-tv.biz/tv/bc5687c1be/694c6d32da/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/694c6d32da/video.m3u8
 #EXTINF:0,CTC Kids HD
-http://view.my-tv.biz/tv/bc5687c1be/ce61a1ccdb/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/ce61a1ccdb/video.m3u8
 #EXTINF:0,Cartoon Network
-http://view.my-tv.biz/tv/bc5687c1be/68b0f14cfb/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/68b0f14cfb/video.m3u8
 #EXTINF:0,Da Vinci Learning
-http://view.my-tv.biz/tv/bc5687c1be/d27a61d41c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d27a61d41c/video.m3u8
 #EXTINF:0,Disney
-http://view.my-tv.biz/tv/bc5687c1be/332677519f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/332677519f/video.m3u8
 #EXTINF:0,FAN
-http://view.my-tv.biz/tv/bc5687c1be/050b875e09/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/050b875e09/video.m3u8
 #EXTINF:0,Gulli
-http://view.my-tv.biz/tv/bc5687c1be/7b835eb274/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/7b835eb274/video.m3u8
 #EXTINF:0,JimJam
-http://view.my-tv.biz/tv/bc5687c1be/a41a591e67/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/a41a591e67/video.m3u8
 #EXTINF:0,Nick Jr.
-http://view.my-tv.biz/tv/bc5687c1be/76d7c08681/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/76d7c08681/video.m3u8
 #EXTINF:0,Nickelodeon HD
-http://view.my-tv.biz/tv/bc5687c1be/32e171690a/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/32e171690a/video.m3u8
 #EXTINF:0,Tiji TV
-http://view.my-tv.biz/tv/bc5687c1be/d142a5019d/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d142a5019d/video.m3u8
 #EXTINF:0,В гостях у сказки
-http://view.my-tv.biz/tv/bc5687c1be/20f4735a5f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/20f4735a5f/video.m3u8
 #EXTINF:0,Детский мир
-http://view.my-tv.biz/tv/bc5687c1be/55256b45da/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/55256b45da/video.m3u8
 #EXTINF:0,Карусель
-http://view.my-tv.biz/tv/bc5687c1be/b2881b8050/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b2881b8050/video.m3u8
 #EXTINF:0,Малыш
-http://view.my-tv.biz/tv/bc5687c1be/45b593603e/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/45b593603e/video.m3u8
 #EXTINF:0,Мульт
-http://view.my-tv.biz/tv/bc5687c1be/848806b32f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/848806b32f/video.m3u8
 #EXTINF:0,Мультимузыка
-http://view.my-tv.biz/tv/bc5687c1be/c344ab064a/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c344ab064a/video.m3u8
 #EXTINF:0,О!
-http://view.my-tv.biz/tv/bc5687c1be/d2b0417ec0/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d2b0417ec0/video.m3u8
 #EXTINF:0,Уникум
-http://view.my-tv.biz/tv/bc5687c1be/ead2a64884/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/ead2a64884/video.m3u8
 #EXTINF:0,1HD
-http://view.my-tv.biz/tv/bc5687c1be/8507f86588/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/8507f86588/video.m3u8
 #EXTINF:0,BRIDGE HD
-http://view.my-tv.biz/tv/bc5687c1be/bb321ffa68/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/bb321ffa68/video.m3u8
 #EXTINF:0,Europa Plus TV
-http://view.my-tv.biz/tv/bc5687c1be/3838cb45bf/video.m3u8
-#EXTINF:0,M1 HD
-http://view.my-tv.biz/tv/bc5687c1be/c24de0e6d4/video.m3u8
-#EXTINF:0,M2 HD
-http://view.my-tv.biz/tv/bc5687c1be/47c11b7cde/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/3838cb45bf/video.m3u8
 #EXTINF:0,MTV
-http://view.my-tv.biz/tv/bc5687c1be/55eb9fcee4/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/55eb9fcee4/video.m3u8
 #EXTINF:0,MTV Dance
-http://view.my-tv.biz/tv/bc5687c1be/ee36d75eef/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/ee36d75eef/video.m3u8
 #EXTINF:0,MTV Hits
-http://view.my-tv.biz/tv/bc5687c1be/e165085fae/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/e165085fae/video.m3u8
 #EXTINF:0,MTV Live HD
-http://view.my-tv.biz/tv/bc5687c1be/c9be7b8126/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c9be7b8126/video.m3u8
 #EXTINF:0,MTV Rocks
-http://view.my-tv.biz/tv/bc5687c1be/22e8ae11ed/video.m3u8
-#EXTINF:0,STARS.TV
-http://view.my-tv.biz/tv/bc5687c1be/7b42c2a874/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/22e8ae11ed/video.m3u8
+#EXTINF:0,Music Box UA
+http://view.my-tv.biz/tv/a0fccdfeac/dbbefc0185/video.m3u8
 #EXTINF:0,VH1 Classic
-http://view.my-tv.biz/tv/bc5687c1be/7c3fbd5164/video.m3u8
-#EXTINF:0,iConcerts HD
-http://view.my-tv.biz/tv/bc5687c1be/1a6be16d09/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/7c3fbd5164/video.m3u8
 #EXTINF:0,ЖАРА
-http://view.my-tv.biz/tv/bc5687c1be/d126b1f09e/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d126b1f09e/video.m3u8
 #EXTINF:0,Ля-минор
-http://view.my-tv.biz/tv/bc5687c1be/8244b5c836/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/8244b5c836/video.m3u8
+#EXTINF:0,Наше ТВ
+http://view.my-tv.biz/tv/a0fccdfeac/02fcfd38f2/video.m3u8
 #EXTINF:0,ТНТ MUSIC
-http://view.my-tv.biz/tv/bc5687c1be/ff7965f510/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/ff7965f510/video.m3u8
 #EXTINF:0,Animal Planet HD
-http://view.my-tv.biz/tv/bc5687c1be/17d29d0597/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/17d29d0597/video.m3u8
 #EXTINF:0,Discovery Channel HD
-http://view.my-tv.biz/tv/bc5687c1be/e8928dde39/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/e8928dde39/video.m3u8
 #EXTINF:0,E
-http://view.my-tv.biz/tv/bc5687c1be/86f25c5153/video.m3u8
-#EXTINF:0,History
-http://view.my-tv.biz/tv/bc5687c1be/90ccd64974/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/86f25c5153/video.m3u8
+#EXTINF:0,Fine Living
+http://view.my-tv.biz/tv/a0fccdfeac/217086deb9/video.m3u8
 #EXTINF:0,THT4
-http://view.my-tv.biz/tv/bc5687c1be/c1ba85fd20/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c1ba85fd20/video.m3u8
 #EXTINF:0,TLC HD
-http://view.my-tv.biz/tv/bc5687c1be/2f65a1b596/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/2f65a1b596/video.m3u8
 #EXTINF:0,Travel Channel HD
-http://view.my-tv.biz/tv/bc5687c1be/57d784834d/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/57d784834d/video.m3u8
 #EXTINF:0,Travel+Adventure
-http://view.my-tv.biz/tv/bc5687c1be/a9306bb567/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/a9306bb567/video.m3u8
 #EXTINF:0,Домашний
-http://view.my-tv.biz/tv/bc5687c1be/4ff4ebb254/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/4ff4ebb254/video.m3u8
 #EXTINF:0,КВН ТВ
-http://view.my-tv.biz/tv/bc5687c1be/5803beb3f8/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/5803beb3f8/video.m3u8
 #EXTINF:0,Мир HD
-http://view.my-tv.biz/tv/bc5687c1be/8ff42eab8f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/8ff42eab8f/video.m3u8
 #EXTINF:0,НТВ HD
-http://view.my-tv.biz/tv/bc5687c1be/817cd1becd/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/817cd1becd/video.m3u8
 #EXTINF:0,Ностальгия
-http://view.my-tv.biz/tv/bc5687c1be/e453779f6a/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/e453779f6a/video.m3u8
 #EXTINF:0,Первый HD
-http://view.my-tv.biz/tv/bc5687c1be/f3167e8d88/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/f3167e8d88/video.m3u8
 #EXTINF:0,Пятница
-http://view.my-tv.biz/tv/bc5687c1be/5693f4da37/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/5693f4da37/video.m3u8
 #EXTINF:0,РЕН ТВ
-http://view.my-tv.biz/tv/bc5687c1be/9cdd897b36/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/9cdd897b36/video.m3u8
 #EXTINF:0,Россия 1 HD
-http://view.my-tv.biz/tv/bc5687c1be/c34f86e727/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c34f86e727/video.m3u8
 #EXTINF:0,Россия-Культура
-http://view.my-tv.biz/tv/bc5687c1be/610e8e851f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/610e8e851f/video.m3u8
 #EXTINF:0,СТС
-http://view.my-tv.biz/tv/bc5687c1be/126699472c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/126699472c/video.m3u8
 #EXTINF:0,Супер
-http://view.my-tv.biz/tv/bc5687c1be/b307e3a183/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b307e3a183/video.m3u8
 #EXTINF:0,ТВ-3
-http://view.my-tv.biz/tv/bc5687c1be/5ba7a42882/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/5ba7a42882/video.m3u8
 #EXTINF:0,ТНТ HD
-http://view.my-tv.biz/tv/bc5687c1be/6ebd979507/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/6ebd979507/video.m3u8
 #EXTINF:0,Че
-http://view.my-tv.biz/tv/bc5687c1be/2a16beeb9d/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/2a16beeb9d/video.m3u8
 #EXTINF:0,365 дней ТВ
-http://view.my-tv.biz/tv/bc5687c1be/b4617225a0/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b4617225a0/video.m3u8
 #EXTINF:0,Discovery Channel HD
-http://view.my-tv.biz/tv/bc5687c1be/e8928dde39/video.m3u8
-#EXTINF:0,English Club HD
-http://view.my-tv.biz/tv/bc5687c1be/d6f7e2daba/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/e8928dde39/video.m3u8
+#EXTINF:0,English Club TV
+http://view.my-tv.biz/tv/a0fccdfeac/5d608df957/video.m3u8
+#EXTINF:0,Fine Living
+http://view.my-tv.biz/tv/a0fccdfeac/217086deb9/video.m3u8
 #EXTINF:0,OCEAN-TV
-http://view.my-tv.biz/tv/bc5687c1be/4de5868bd0/video.m3u8
-#EXTINF:0,RTR Planeta
-http://view.my-tv.biz/tv/bc5687c1be/7eceeb9bd3/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/4de5868bd0/video.m3u8
 #EXTINF:0,Russian Travel Guide HD
-http://view.my-tv.biz/tv/bc5687c1be/1184feb87b/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/1184feb87b/video.m3u8
 #EXTINF:0,Viasat Explore
-http://view.my-tv.biz/tv/bc5687c1be/6b613b02f6/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/6b613b02f6/video.m3u8
 #EXTINF:0,Viasat Nature/History HD
-http://view.my-tv.biz/tv/bc5687c1be/1628d7d484/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/1628d7d484/video.m3u8
 #EXTINF:0,Авто 24
-http://view.my-tv.biz/tv/bc5687c1be/0182beb8db/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/0182beb8db/video.m3u8
 #EXTINF:0,Авто Плюс
-http://view.my-tv.biz/tv/bc5687c1be/1d37dd2c0f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/1d37dd2c0f/video.m3u8
 #EXTINF:0,Бобёр
-http://view.my-tv.biz/tv/bc5687c1be/0f5be3cbb9/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/0f5be3cbb9/video.m3u8
 #EXTINF:0,Доктор
-http://view.my-tv.biz/tv/bc5687c1be/953b1183fc/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/953b1183fc/video.m3u8
 #EXTINF:0,Домашние Животные
-http://view.my-tv.biz/tv/bc5687c1be/99a8af4f19/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/99a8af4f19/video.m3u8
 #EXTINF:0,ЖИВИ!
-http://view.my-tv.biz/tv/bc5687c1be/a12a20da1d/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/a12a20da1d/video.m3u8
 #EXTINF:0,Загородная Жизнь
-http://view.my-tv.biz/tv/bc5687c1be/0f21cdb4ed/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/0f21cdb4ed/video.m3u8
 #EXTINF:0,Звезда
-http://view.my-tv.biz/tv/bc5687c1be/240fb199fc/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/240fb199fc/video.m3u8
 #EXTINF:0,История
-http://view.my-tv.biz/tv/bc5687c1be/d5fec7479b/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d5fec7479b/video.m3u8
 #EXTINF:0,Моя Планета
-http://view.my-tv.biz/tv/bc5687c1be/89782013d5/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/89782013d5/video.m3u8
 #EXTINF:0,Наука 2.0
-http://view.my-tv.biz/tv/bc5687c1be/987e9469e4/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/987e9469e4/video.m3u8
 #EXTINF:0,Ностальгия
-http://view.my-tv.biz/tv/bc5687c1be/e453779f6a/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/e453779f6a/video.m3u8
 #EXTINF:0,Поехали!
-http://view.my-tv.biz/tv/bc5687c1be/67eaa6bc57/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/67eaa6bc57/video.m3u8
 #EXTINF:0,Россия-Культура
-http://view.my-tv.biz/tv/bc5687c1be/610e8e851f/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/610e8e851f/video.m3u8
 #EXTINF:0,Санкт-Петербург
-http://view.my-tv.biz/tv/bc5687c1be/c951bf8944/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/c951bf8944/video.m3u8
 #EXTINF:0,Сов. Секретно
-http://view.my-tv.biz/tv/bc5687c1be/2ad12b1c25/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/2ad12b1c25/video.m3u8
 #EXTINF:0,Кухня ТВ
-http://view.my-tv.biz/tv/bc5687c1be/6cce2d982c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/6cce2d982c/video.m3u8
 #EXTINF:0,Телекафе
-http://view.my-tv.biz/tv/bc5687c1be/689801fc76/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/689801fc76/video.m3u8
 #EXTINF:0,Blue Hustler
-http://view.my-tv.biz/tv/bc5687c1be/316e00eb6a/video.m3u8
-#EXTINF:0,O-la-la
-http://view.my-tv.biz/tv/bc5687c1be/a6f10b8aef/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/316e00eb6a/video.m3u8
 #EXTINF:0,Playboy TV
-http://view.my-tv.biz/tv/bc5687c1be/997d1c54d0/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/997d1c54d0/video.m3u8
 #EXTINF:0,Ню Арт ТВ
-http://view.my-tv.biz/tv/bc5687c1be/f15a27e53c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/f15a27e53c/video.m3u8
 #EXTINF:0,Русская Ночь
-http://view.my-tv.biz/tv/bc5687c1be/0240c6c1bb/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/0240c6c1bb/video.m3u8
 #EXTINF:0,Animal Planet HD
-http://view.my-tv.biz/tv/bc5687c1be/17d29d0597/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/17d29d0597/video.m3u8
 #EXTINF:0,HD Life
-http://view.my-tv.biz/tv/bc5687c1be/71a78079a0/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/71a78079a0/video.m3u8
 #EXTINF:0,Nat Geo Wild HD
-http://view.my-tv.biz/tv/bc5687c1be/97a52ba86c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/97a52ba86c/video.m3u8
 #EXTINF:0,National Geographic HD
-http://view.my-tv.biz/tv/bc5687c1be/b57461240b/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b57461240b/video.m3u8
 #EXTINF:0,Outdoor Channel
-http://view.my-tv.biz/tv/bc5687c1be/8acd60c98b/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/8acd60c98b/video.m3u8
 #EXTINF:0,Диалоги о рыбалке
-http://view.my-tv.biz/tv/bc5687c1be/b2de74126c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b2de74126c/video.m3u8
 #EXTINF:0,Дикий
-http://view.my-tv.biz/tv/bc5687c1be/4883bc5d09/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/4883bc5d09/video.m3u8
 #EXTINF:0,1+1
-http://view.my-tv.biz/tv/bc5687c1be/3f5651c4c9/video.m3u8
-#EXTINF:0,1+1 HD
-http://view.my-tv.biz/tv/bc5687c1be/546e7e9aa7/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/3f5651c4c9/video.m3u8
 #EXTINF:0,112 HD
-http://view.my-tv.biz/tv/bc5687c1be/601ca99d55/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/601ca99d55/video.m3u8
 #EXTINF:0,2+2
-http://view.my-tv.biz/tv/bc5687c1be/ec185f4c12/video.m3u8
-#EXTINF:0,2+2 HD
-http://view.my-tv.biz/tv/bc5687c1be/928883aefd/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/ec185f4c12/video.m3u8
 #EXTINF:0,5 канал ПЕРШИЙ.УКРАЇНСЬКИЙ. ІНФОРМАЦІЙНИЙ
-http://view.my-tv.biz/tv/bc5687c1be/d218300aec/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d218300aec/video.m3u8
 #EXTINF:0,Enter-фільм
-http://view.my-tv.biz/tv/bc5687c1be/19b280eb88/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/19b280eb88/video.m3u8
 #EXTINF:0,Eспресо TV
-http://view.my-tv.biz/tv/bc5687c1be/a27a3a16a1/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/a27a3a16a1/video.m3u8
 #EXTINF:0,ICTV
-http://view.my-tv.biz/tv/bc5687c1be/1e044ace82/video.m3u8
-#EXTINF:0,ICTV HD
-http://view.my-tv.biz/tv/bc5687c1be/792c5c8822/video.m3u8
-#EXTINF:0,Iндиго ТВ HD
-http://view.my-tv.biz/tv/bc5687c1be/f85523ec41/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/1e044ace82/video.m3u8
 #EXTINF:0,M1
-http://view.my-tv.biz/tv/bc5687c1be/2055765dea/video.m3u8
-#EXTINF:0,M1 HD
-http://view.my-tv.biz/tv/bc5687c1be/c24de0e6d4/video.m3u8
-#EXTINF:0,M2 HD
-http://view.my-tv.biz/tv/bc5687c1be/47c11b7cde/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/2055765dea/video.m3u8
 #EXTINF:0,News 24
-http://view.my-tv.biz/tv/bc5687c1be/fb7c047d96/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/fb7c047d96/video.m3u8
 #EXTINF:0,NewsOne HD
-http://view.my-tv.biz/tv/bc5687c1be/6edba28066/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/6edba28066/video.m3u8
+#EXTINF:0,Paramount Comedy Ukraina
+http://view.my-tv.biz/tv/a0fccdfeac/08b299fb28/video.m3u8
 #EXTINF:0,UA:Перший
-http://view.my-tv.biz/tv/bc5687c1be/7fb41cffa6/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/7fb41cffa6/video.m3u8
 #EXTINF:0,XSPORT
-http://view.my-tv.biz/tv/bc5687c1be/b5161b30ac/video.m3u8
-#EXTINF:0,Zik
-http://view.my-tv.biz/tv/bc5687c1be/c489c5c168/video.m3u8
-#EXTINF:0,Бигуди
-http://view.my-tv.biz/tv/bc5687c1be/991fa7e5a7/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/b5161b30ac/video.m3u8
 #EXTINF:0,Интер
-http://view.my-tv.biz/tv/bc5687c1be/9b2b04102c/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/9b2b04102c/video.m3u8
 #EXTINF:0,К1
-http://view.my-tv.biz/tv/bc5687c1be/cf8632800e/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/cf8632800e/video.m3u8
 #EXTINF:0,К2
-http://view.my-tv.biz/tv/bc5687c1be/d4f4bf0f2a/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/d4f4bf0f2a/video.m3u8
 #EXTINF:0,Мега
-http://view.my-tv.biz/tv/bc5687c1be/daf99c5f17/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/daf99c5f17/video.m3u8
 #EXTINF:0,НТН
-http://view.my-tv.biz/tv/bc5687c1be/af265b4af8/video.m3u8
-#EXTINF:0,Новий
-http://view.my-tv.biz/tv/bc5687c1be/0a7425de50/video.m3u8
-#EXTINF:0,Новий HD
-http://view.my-tv.biz/tv/bc5687c1be/c25f19d228/video.m3u8
-#EXTINF:0,Первый автомобильный HD
-http://view.my-tv.biz/tv/bc5687c1be/54c0efe885/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/af265b4af8/video.m3u8
+#EXTINF:0,Новий канал
+http://view.my-tv.biz/tv/a0fccdfeac/0a7425de50/video.m3u8
 #EXTINF:0,Плюс Плюс
-http://view.my-tv.biz/tv/bc5687c1be/3b2759f750/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/3b2759f750/video.m3u8
 #EXTINF:0,Прямий HD
-http://view.my-tv.biz/tv/bc5687c1be/8683058188/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/8683058188/video.m3u8
 #EXTINF:0,Піксель
-http://view.my-tv.biz/tv/bc5687c1be/82f75cbd7d/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/82f75cbd7d/video.m3u8
 #EXTINF:0,СТБ
-http://view.my-tv.biz/tv/bc5687c1be/2f87d6b8ad/video.m3u8
-#EXTINF:0,СТБ HD
-http://view.my-tv.biz/tv/bc5687c1be/12f4a57944/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/2f87d6b8ad/video.m3u8
 #EXTINF:0,ТЕТ
-http://view.my-tv.biz/tv/bc5687c1be/219c0ced06/video.m3u8
-#EXTINF:0,ТЕТ HD
-http://view.my-tv.biz/tv/bc5687c1be/cca83b5b44/video.m3u8
-#EXTINF:0,Трофей
-http://view.my-tv.biz/tv/bc5687c1be/850c64687b/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/219c0ced06/video.m3u8
 #EXTINF:0,Україна
-http://view.my-tv.biz/tv/bc5687c1be/73499036ab/video.m3u8
-#EXTINF:0,Україна HD
-http://view.my-tv.biz/tv/bc5687c1be/0ced58e76d/video.m3u8
+http://view.my-tv.biz/tv/a0fccdfeac/73499036ab/video.m3u8
