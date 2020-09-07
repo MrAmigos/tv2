@@ -1,0 +1,262 @@
+#EXTM3U catchup="flussonic" url-tvg="https://iptv.online/epg/epg.xml.gz"
+#EXTINF:0 tvg-id="Xunian-tv" tvg-name="Униан ТВ" tvg-logo="https://iptv.online/epg/icon/unian.png"  tvg-rec="1" timeshift="1", Униан ТВ
+#EXTGRP:Украинские
+http://cdn.iptv.monster/play/9949/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-premier" tvg-name="МАТЧ ПРЕМЬЕР" tvg-logo="https://iptv.online/epg/icon/match-premiere.png"  tvg-rec="1" timeshift="1", МАТЧ ПРЕМЬЕР
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/37/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-premier" tvg-name="МАТЧ Премьер HD" tvg-logo="https://iptv.online/epg/icon/match-premiere.png"  tvg-rec="1" timeshift="1", МАТЧ Премьер HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/250/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-arena" tvg-name="Матч Арена" tvg-logo="https://iptv.online/epg/icon/match-arena.png"  tvg-rec="1" timeshift="1", Матч Арена
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/136/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-arena" tvg-name="Матч! Арена HD" tvg-logo="https://iptv.online/epg/icon/match-arena.png"  tvg-rec="1" timeshift="1", Матч! Арена HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/146/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-planeta" tvg-name="Матч! Планета" tvg-logo="https://iptv.online/epg/icon/match-planeta.png"  tvg-rec="1" timeshift="1", Матч! Планета
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/14/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч ТВ" tvg-logo="https://iptv.online/epg/icon/match.png"  tvg-rec="1" timeshift="1", Матч ТВ
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/5/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч! HD" tvg-logo="https://iptv.online/epg/icon/match.png"  tvg-rec="1" timeshift="1", Матч! HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/397/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-boets" tvg-name="МАТЧ! Боец" tvg-logo="https://iptv.online/epg/icon/match-boec.png"  tvg-rec="1" timeshift="1", МАТЧ! Боец
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/30/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-nash-sport" tvg-name="МАТЧ! Страна" tvg-logo="https://iptv.online/epg/icon/match-nash-sport.png"  tvg-rec="1" timeshift="1", МАТЧ! Страна
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/134/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-igra" tvg-name="Матч! Игра HD" tvg-logo="https://iptv.online/epg/icon/match-igra.png"  tvg-rec="1" timeshift="1", Матч! Игра HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/268/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-igra" tvg-name="Матч! Игра" tvg-logo="https://iptv.online/epg/icon/match-igra.png"  tvg-rec="1" timeshift="1", Матч! Игра
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/153/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="https://iptv.online/epg/icon/match-football-1.png"  tvg-rec="1" timeshift="1", Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/260/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football1" tvg-name="Матч Футбол 1" tvg-logo="https://iptv.online/epg/icon/match-football-1.png"  tvg-rec="1" timeshift="1", Матч Футбол 1
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/54/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="https://iptv.online/epg/icon/match-football-2.png"  tvg-rec="1" timeshift="1", Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/271/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://iptv.online/epg/icon/match-football-3.png"  tvg-rec="1" timeshift="1", Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/329/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xfootball-ru" tvg-name="Футбол" tvg-logo="https://iptv.online/epg/icon/futbol.png"  tvg-rec="1" timeshift="1", Футбол
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/171/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xfootball-ru" tvg-name="Футбол HD" tvg-logo="https://iptv.online/epg/icon/futbol.png"  tvg-rec="1" timeshift="1", Футбол HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/3920/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-sport" tvg-name="Viasat Sport HD" tvg-logo="https://iptv.online/epg/icon/viasat-sport.png"  tvg-rec="1" timeshift="1", Viasat Sport HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/198/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-sport" tvg-name="Viasat Sport" tvg-logo="https://iptv.online/epg/icon/viasat-sport.png"  tvg-rec="1" timeshift="1", Viasat Sport
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/77/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-plus-ua" tvg-name="Setanta Sports+" tvg-logo="https://iptv.online/epg/icon/setanta-sports-plus.png"  tvg-rec="1" timeshift="1", Setanta Sports+
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/9957/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-ua" tvg-name="Setanta Sports HD" tvg-logo="https://iptv.online/epg/icon/setanta-sports.png"  tvg-rec="1" timeshift="1", Setanta Sports HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/1434/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Setanta Eurasia+" tvg-rec="1" timeshift="1", Setanta Eurasia+
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/943/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Setanta Eurasia HD" tvg-rec="1" timeshift="1", Setanta Eurasia HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/942/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-sports" tvg-name="Сетанта Спорт" tvg-logo="https://iptv.online/epg/icon/setanta-sports1.png"  tvg-rec="1" timeshift="1", Сетанта Спорт
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/469/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xshakhtar-tv" tvg-name="Shakhtar.TV" tvg-rec="1" timeshift="1", Shakhtar.TV
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/9940/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xfootball1-ua" tvg-name="Футбол-1" tvg-logo="https://iptv.online/epg/icon/footbal1-ua.png"  tvg-rec="1" timeshift="1", Футбол-1
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/410/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xfootball1-ua" tvg-name="Футбол 1 HD" tvg-logo="https://iptv.online/epg/icon/footbal1-ua.png"  tvg-rec="1" timeshift="1", Футбол 1 HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/956/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xfootball2-ua" tvg-name="Футбол-2" tvg-logo="https://iptv.online/epg/icon/footbal2-ua.png"  tvg-rec="1" timeshift="1", Футбол-2
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/411/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xfootball2-ua" tvg-name="Футбол 2 HD" tvg-logo="https://iptv.online/epg/icon/footbal2-ua.png"  tvg-rec="1" timeshift="1", Футбол 2 HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/957/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xfootball3-ua" tvg-name="Футбол 3 HD" tvg-logo="https://iptv.online/epg/icon/footbal3-ua.png"  tvg-rec="1" timeshift="1", Футбол 3 HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/9977/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport1-ru" tvg-name="Eurosport" tvg-logo="https://iptv.online/epg/icon/eurosport1.png"  tvg-rec="1" timeshift="1", Eurosport
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/15/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport1-ru" tvg-name="Eurosport HD" tvg-logo="https://iptv.online/epg/icon/eurosport1.png"  tvg-rec="1" timeshift="1", Eurosport HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/145/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2-ru" tvg-name="Eurosport 2" tvg-logo="https://iptv.online/epg/icon/eurosport2.png"  tvg-rec="1" timeshift="1", Eurosport 2
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/43/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2-ru" tvg-name="Eurosport 2 HD" tvg-logo="https://iptv.online/epg/icon/eurosport2.png"  tvg-rec="1" timeshift="1", Eurosport 2 HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/361/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport-gold" tvg-name="Eurosport Gold HD" tvg-logo="https://iptv.online/epg/icon/eurosport-gold.png"  tvg-rec="1" timeshift="1", Eurosport Gold HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/3922/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport-4k" tvg-name="Eurosport 4K" tvg-logo="https://iptv.online/epg/icon/eurosport-4k.png" , Eurosport 4K
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/4090/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xstart" tvg-name="Старт HD" tvg-logo="https://iptv.online/epg/icon/start.png"  tvg-rec="1" timeshift="1", Старт HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/9946/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsupertennis" tvg-name="Super Tennis HD" tvg-logo="https://iptv.online/epg/icon/supertennis.png"  tvg-rec="1" timeshift="1", Super Tennis HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/941/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xkonny-mir" tvg-name="Конный мир HD" tvg-logo="https://iptv.online/epg/icon/konny-mir.png"  tvg-rec="1" timeshift="1", Конный мир HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/394/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xmotorsportv-tv" tvg-name="Моторспорт ТВ" tvg-logo="https://iptv.online/epg/icon/motorsporttv.png"  tvg-rec="1" timeshift="1", Моторспорт ТВ
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/3918/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xkxl" tvg-name="КХЛ" tvg-logo="https://iptv.online/epg/icon/khl.png"  tvg-rec="1" timeshift="1", КХЛ
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/149/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xkxl-hd" tvg-name="КХЛ HD" tvg-logo="https://iptv.online/epg/icon/khl.png"  tvg-rec="1" timeshift="1", КХЛ HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/177/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xbox-tv" tvg-name="Бокс ТВ" tvg-logo="https://iptv.online/epg/icon/box-tv.png"  tvg-rec="1" timeshift="1", Бокс ТВ
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/482/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsport1-ua" tvg-name="Спорт 1" tvg-logo="https://iptv.online/epg/icon/sport1ua.png"  tvg-rec="1" timeshift="1", Спорт 1
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/479/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xextreme-sports" tvg-name="Extreme Sports" tvg-logo="https://iptv.online/epg/icon/extreme-sports.png"  tvg-rec="1" timeshift="1", Extreme Sports
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/53/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xavto-plus" tvg-name="Авто Плюс" tvg-logo="https://iptv.online/epg/icon/avto-plus.png"  tvg-rec="1" timeshift="1", Авто Плюс
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/29/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xufc" tvg-name="UFC HD", UFC HD
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/4111/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xxsport-ua" tvg-name="XSPORT" tvg-rec="1" timeshift="1", XSPORT
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/480/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-ekstrim" tvg-name="Русский Экстрим" tvg-logo="https://iptv.online/epg/icon/russky-ekstrim.png"  tvg-rec="1" timeshift="1", Русский Экстрим
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/345/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xtochka-otryva" tvg-name="Точка отрыва" tvg-logo="https://iptv.online/epg/icon/tochka-otryva.png"  tvg-rec="1" timeshift="1", Точка отрыва
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/601/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xavto24" tvg-name="Авто 24" tvg-logo="https://iptv.online/epg/icon/avto24.png"  tvg-rec="1" timeshift="1", Авто 24
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/256/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-1" tvg-name="Bein Sport HD 1" tvg-rec="1" timeshift="1", Bein Sport HD 1
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/1101/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-2" tvg-name="Bein Sport HD 2" tvg-rec="1" timeshift="1", Bein Sport HD 2
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/1102/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-3" tvg-name="Bein Sport HD 3" tvg-rec="1" timeshift="1", Bein Sport HD 3
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/1103/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-4" tvg-name="Bein Sport HD 4" tvg-rec="1" timeshift="1", Bein Sport HD 4
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/1104/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Bein Sports MAX 5" tvg-rec="1" timeshift="1", Bein Sports MAX 5
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/1105/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Bein Sports MAX 6" tvg-rec="1" timeshift="1", Bein Sports MAX 6
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/1106/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport1" tvg-name="BT Sport 1" tvg-logo="https://iptv.online/epg/icon/bt-sport1.png" , BT Sport 1
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/922/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport2" tvg-name="BT Sport 2" tvg-logo="https://iptv.online/epg/icon/bt-sport2.png"  tvg-rec="1" timeshift="1", BT Sport 2
+#EXTGRP:Спорт
+http://cdn.iptv.monster/play/923/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xbelarus5" tvg-name="Беларусь 5" tvg-logo="https://iptv.online/epg/icon/belarus5.png"  tvg-rec="1" timeshift="1", Беларусь 5
+#EXTGRP:BY
+http://cdn.iptv.monster/play/1467/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-hd1" tvg-name="Sky Sport 1 HD DE" tvg-rec="1" timeshift="1", Sky Sport 1 HD DE
+#EXTGRP:DE
+http://cdn.iptv.monster/play/833/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-hd2" tvg-name="Sky Sport 2 HD DE" tvg-rec="1" timeshift="1", Sky Sport 2 HD DE
+#EXTGRP:DE
+http://cdn.iptv.monster/play/834/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-rec="1" timeshift="1", Sky Sport Bundesliga 1 HD DE
+#EXTGRP:DE
+http://cdn.iptv.monster/play/836/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="AFN Sports 2 US", AFN Sports 2 US
+#EXTGRP:DE
+http://cdn.iptv.monster/play/858/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-aus" tvg-name="Sky Sport Austria HD DE", Sky Sport Austria HD DE
+#EXTGRP:DE
+http://cdn.iptv.monster/play/5129/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="831" tvg-name="Eurosport HD DE" tvg-rec="1" timeshift="1", Eurosport HD DE
+#EXTGRP:DE
+http://cdn.iptv.monster/play/831/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="5136" tvg-name="Eurosport 2 HD DE" tvg-rec="1" timeshift="1", Eurosport 2 HD DE
+#EXTGRP:DE
+http://cdn.iptv.monster/play/5136/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-news" tvg-name="Sky Sport News HD DE" tvg-rec="1" timeshift="1", Sky Sport News HD DE
+#EXTGRP:DE
+http://cdn.iptv.monster/play/832/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sports-f1" tvg-name="SKY Sports F1 HD", SKY Sports F1 HD
+#EXTGRP:DE
+http://cdn.iptv.monster/play/9923/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="818" tvg-name="Sport 1 HD DE" tvg-rec="1" timeshift="1", Sport 1 HD DE
+#EXTGRP:DE
+http://cdn.iptv.monster/play/818/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Sport 1 HD IL", Sport 1 HD IL
+#EXTGRP:IL
+http://cdn.iptv.monster/play/1522/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="SPORT 2 HD IL", SPORT 2 HD IL
+#EXTGRP:IL
+http://cdn.iptv.monster/play/1521/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 HD IL", Sport 5 HD IL
+#EXTGRP:IL
+http://cdn.iptv.monster/play/1507/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Sport 3 HD IL" tvg-rec="1" timeshift="1", Sport 3 HD IL
+#EXTGRP:IL
+http://cdn.iptv.monster/play/1565/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Sport 4 HD IL" tvg-rec="1" timeshift="1", Sport 4 HD IL
+#EXTGRP:IL
+http://cdn.iptv.monster/play/1566/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 IL" tvg-rec="1" timeshift="1", Sport 5 IL
+#EXTGRP:IL
+http://cdn.iptv.monster/play/1569/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Sport 5+ Live HD IL" tvg-rec="1" timeshift="1", Sport 5+ Live HD IL
+#EXTGRP:IL
+http://cdn.iptv.monster/play/1531/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Eleven HD PL" tvg-rec="1" timeshift="1", Eleven HD PL
+#EXTGRP:PL
+http://cdn.iptv.monster/play/1903/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Sport Klub PL" tvg-rec="1" timeshift="1", Sport Klub PL
+#EXTGRP:PL
+http://cdn.iptv.monster/play/1925/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xcanal-pl-sport-2" tvg-name="Canal+ sport 2 HD PL" tvg-logo="https://iptv.online/epg/icon/canal-pl-sport-2.png"  tvg-rec="1" timeshift="1", Canal+ sport 2 HD PL
+#EXTGRP:PL
+http://cdn.iptv.monster/play/1901/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Eleven Sports HD PL" tvg-rec="1" timeshift="1", Eleven Sports HD PL
+#EXTGRP:PL
+http://cdn.iptv.monster/play/1904/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="TVP Sport HD PL" tvg-rec="1" timeshift="1", TVP Sport HD PL
+#EXTGRP:PL
+http://cdn.iptv.monster/play/1910/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="ERT HD GR", ERT HD GR
+#EXTGRP:GR
+http://cdn.iptv.monster/play/5901/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-id="Xkazsport" tvg-name="KazSport KZ" tvg-logo="https://iptv.online/epg/icon/kazsport.png" , KazSport KZ
+#EXTGRP:KZ
+http://cdn.iptv.monster/play/463/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="CBC Sport AZ", CBC Sport AZ
+#EXTGRP:AZ
+http://cdn.iptv.monster/play/434/4B5931B3402074C/video.m3u8
+#EXTINF:0 tvg-name="Idman AZ", Idman AZ
+#EXTGRP:AZ
+http://cdn.iptv.monster/play/439/4B5931B3402074C/video.m3u8
